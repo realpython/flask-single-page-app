@@ -1,5 +1,5 @@
 env
-*.py
+*.pyc
 
 transcript.md
 live-coding
