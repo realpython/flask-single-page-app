@@ -11,7 +11,7 @@ Powered by [Real Python](https://realpython.com)
 
 ### Flask!
 
-![flask_logo](flask.png)
+<img src="/realpython/flask-single-page-app/raw/master/flask.png" alt="flask_logo" style="max-width: 300px;">
 
 Flask is a minimalistic web framework. What does this mean for you?
 
