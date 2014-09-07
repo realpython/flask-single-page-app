@@ -4,7 +4,7 @@ Powered by [Real Python](https://realpython.com)
 
 ## Series
 
-1. Part 1 - Intro, Project Setup, Hello World
+1. Part 1 - Intro, Project Setup, Hello World ([video link](https://www.youtube.com/watch?v=gegrALNqdro))
 2. Part 2 - Foo
 3. Part 3 - Bar
 4. Part 4 - FooBar
