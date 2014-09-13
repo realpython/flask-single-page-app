@@ -2,5 +2,6 @@ env
 *.pyc
 
 transcript.md
+transcript2.md
 live-coding
 img
