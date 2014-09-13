@@ -5,7 +5,7 @@ Powered by [Real Python](https://realpython.com)
 ## Series
 
 1. Part 1 - Intro, Project Setup, Hello World ([video link](https://www.youtube.com/watch?v=gegrALNqdro))
-1. Part 2 - Dynamic web app, Jinja2 templating, HTML/CSS, relationship between client and server
+1. Part 2 - Dynamic web app, Jinja2 templating, HTML/CSS, relationship between client and server ([video link](https://www.youtube.com/watch?v=9bum8TDd8Ag))
 1. Part 3 - Github API
 1. Part 4 - jQuery, Angular
 
