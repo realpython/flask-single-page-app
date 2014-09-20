@@ -18,7 +18,7 @@
     <div class="container">
         <h1>Adder</h1>
         <br>
-        <form role="form" method="post">
+        <form role="form" method="post" onsubmit="return false;">
             <div class="form-group">
                 <input type="number" class="form-control" name="number-one" placeholder="Enter a number" required>
                 <input type="number" class="form-control" name="number-two" placeholder="Enter a number" required>
@@ -26,9 +26,10 @@
             <button type="submit" class="btn btn-default">Submit</button>
         </form>
         <br>
-        <p>The calculated value is {{value}}</p>
+        <p>The calculated value is <span id="results"></span></p>
     </div>
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src={{ url_for('static', filename='main.js') }}></script>
   </body>
 </html>
