@@ -6,8 +6,9 @@ Powered by [Real Python](https://realpython.com)
 
 1. Part 1 - Intro, Project Setup, Hello World ([video link](https://www.youtube.com/watch?v=gegrALNqdro))
 1. Part 2 - Dynamic web app, Jinja2 templating, HTML/CSS, relationship between client and server ([video link](https://www.youtube.com/watch?v=9bum8TDd8Ag))
-1. Part 3 - Github API
-1. Part 4 - jQuery, Angular
+1. Part 3 - Front end fun with JavaScript, jQuery, and AJAX ([video link](http://youtu.be/C88eNjVUDCM))
+1. Part 4 - Working with the Github API
+1. Part 5 - Angular and Flask
 
 ## Flask!
 
@@ -31,3 +32,12 @@ Unlike full featured frameworks, like Django, it takes a bit more time to get an
 1. Looked briefly at Jinja templating
 1. Touched on dynamic routes using query parameters
 1. Styled the app using HTML and CSS
+
+## Part 3 (09/20/2014):
+
+1. Updated our Flask view to return JSON on a POST request
+1. Setup JavaScript and jQuery on the client-side
+1. Grabbed the values from the form using jQuery
+1. Sent the values to the server-side via AJAX
+1. Summed the values on the server-side, then returned the sum back to the client-side
+1. Added the returned value to the DOM
