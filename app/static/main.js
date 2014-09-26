@@ -7,8 +7,8 @@ $(document).ready(function() {
     console.log("the form has beeen submitted");
 
     // grab values
-    valueOne = $('input[name="number-one"]').val();
-    valueTwo = $('input[name="number-two"]').val();
+    valueOne = $('input[name="location"]').val();
+    valueTwo = $('input[name="language"]').val();
     console.log(valueOne, valueTwo)
 
     $.ajax({
@@ -16,8 +16,8 @@ $(document).ready(function() {
       url: "/",
       data : { 'first': valueOne, 'second': valueTwo },
       success: function(results) {
-        console.log(results);
-        $('#results').html(results.total)
+        console.log(results.items[0]);
+        $('#results').html('<a href="'+results.items[0].html_url+'">'+results.items[0].login+'</a><br><img src="'+results.items[0].avatar_url+'">')
         $('input').val('')
       },
       error: function(error) {
