@@ -20,11 +20,11 @@ Unlike full featured frameworks, like Django, it takes a bit more time to get an
 
 ## Part 1 (09/06/2014):
 
-1. Create Project directory
+1. Created a Project directory
 1. Setup development environment - pip, virtualenv, and Git
-1. Install Flask with pip
-1. Create our App
-1. Commit our changes to local repo
+1. Installed Flask with pip
+1. Created our App
+1. Commited our changes to the local repo
 
 ## Part 2 (09/13/2014):
 
@@ -41,3 +41,10 @@ Unlike full featured frameworks, like Django, it takes a bit more time to get an
 1. Sent the values to the server-side via AJAX
 1. Summed the values on the server-side, then returned the sum back to the client-side
 1. Added the returned value to the DOM
+
+## Part 3 (09/27/2014):
+
+1. Looked briefly at the RESTful API structure
+1. Consumed the Github API with the Requests library
+1. Parsed the returned data
+1. Added the parsed data to the DOM
