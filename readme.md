@@ -7,7 +7,7 @@ Powered by [Real Python](https://realpython.com)
 1. Part 1 - Intro, Project Setup, Hello World ([video link](https://www.youtube.com/watch?v=gegrALNqdro))
 1. Part 2 - Dynamic web app, Jinja2 templating, HTML/CSS, relationship between client and server ([video link](https://www.youtube.com/watch?v=9bum8TDd8Ag))
 1. Part 3 - Front end fun with JavaScript, jQuery, and AJAX ([video link](http://youtu.be/C88eNjVUDCM))
-1. Part 4 - Working with the Github API
+1. Part 4 - Working with the Github API - consuming the API, parsing JOSN ([video link](http://youtu.be/Yo-RxGCpJ9s))
 1. Part 5 - Angular and Flask
 
 ## Flask!
