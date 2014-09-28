@@ -12,6 +12,9 @@
         input {
             max-width: 250px;
         }
+        .avatar {
+            max-width: 150px;
+        }
     </style>
   </head>
   <body>
@@ -23,7 +26,8 @@
                 <input type="text" class="form-control" name="location" placeholder="Enter a location" required>
                 <input type="text" class="form-control" name="language" placeholder="Enter a programming langauge" required>
             </div>
-            <button type="submit" class="btn btn-default">Find a developer!</button>
+            <button type="submit" class="btn btn-primary">Find a developer!</button>
+            <button type="submit" class="btn btn-success" id="try-again">Try a different location</button>
         </form>
         <br>
         <div id="results"></div>
