@@ -7,8 +7,10 @@ Powered by [Real Python](https://realpython.com)
 1. Part 1 - Intro, Project Setup, Hello World ([video link](https://www.youtube.com/watch?v=gegrALNqdro))
 1. Part 2 - Dynamic web app, Jinja2 templating, HTML/CSS, relationship between client and server ([video link](https://www.youtube.com/watch?v=9bum8TDd8Ag))
 1. Part 3 - Front end fun with JavaScript, jQuery, and AJAX ([video link](http://youtu.be/C88eNjVUDCM))
-1. Part 4 - Working with the Github API - consuming the API, parsing JOSN ([video link](http://youtu.be/Yo-RxGCpJ9s))
-1. Part 5 - Angular and Flask
+1. Part 4 - Working with the Github API - consuming the API, parsing JSON ([video link](http://youtu.be/Yo-RxGCpJ9s))
+1. Part 5 - Consuming RESTful APIs - parsing JSON, error handling ([video link](http://youtu.be/aLAsgS1IHd8))
+1. Part 6 - Angular
+1. Part 7 - react.JS
 
 ## Flask!
 
@@ -42,9 +44,14 @@ Unlike full featured frameworks, like Django, it takes a bit more time to get an
 1. Summed the values on the server-side, then returned the sum back to the client-side
 1. Added the returned value to the DOM
 
-## Part 3 (09/27/2014):
+## Part 4 (09/27/2014):
 
 1. Looked briefly at the RESTful API structure
 1. Consumed the Github API with the Requests library
 1. Parsed the returned data
 1. Added the parsed data to the DOM
+
+## Part 5 (09/28/2014):
+
+1. Worked with DOM manipulation
+1. Touched on error handling
