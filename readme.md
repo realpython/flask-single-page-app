@@ -9,8 +9,6 @@ Powered by [Real Python](https://realpython.com)
 1. Part 3 - Front end fun with JavaScript, jQuery, and AJAX ([video link](http://youtu.be/C88eNjVUDCM))
 1. Part 4 - Working with the Github API - consuming the API, parsing JSON ([video link](http://youtu.be/Yo-RxGCpJ9s))
 1. Part 5 - Consuming RESTful APIs - parsing JSON, error handling ([video link](http://youtu.be/aLAsgS1IHd8))
-1. Part 6 - Angular
-1. Part 7 - react.JS
 
 ## Flask!
 
