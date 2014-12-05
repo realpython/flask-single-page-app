@@ -11,7 +11,7 @@ Powered by [Real Python](https://realpython.com)
 | 3    | Front end fun with JavaScript, jQuery, and AJAX | [video](http://youtu.be/C88eNjVUDCM) | [part3](https://github.com/realpython/flask-single-page-app/tree/part3) |
 | 4    | Working with the Github API - consuming the API, parsing JSON | [video](http://youtu.be/Yo-RxGCpJ9s) | [part4](https://github.com/realpython/flask-single-page-app/tree/part4)
 | 5    | Consuming RESTful APIs - parsing JSON, error handling | [video](http://youtu.be/aLAsgS1IHd8) | [part5](https://github.com/realpython/flask-single-page-app/tree/part5)
-| 6    | Caching External API Requests from the Github API | Coming Soon! |
+| 6    | Caching External API Requests from the Github API | Coming Soon! | [part6](https://github.com/realpython/flask-single-page-app/tree/part6)
 
 
 ## Flask!
