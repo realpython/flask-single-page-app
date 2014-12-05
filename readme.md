@@ -8,10 +8,10 @@ Powered by [Real Python](https://realpython.com)
 |------|---------------------------|-------|---------|
 | 1    | Intro, Project Setup, Hello World | [video](https://www.youtube.com/watch?v=gegrALNqdro) | [part1](https://github.com/realpython/flask-single-page-app/tree/part1) |
 | 2    | Dynamic web app, Jinja2 templating, HTML/CSS, relationship between client and server | [video](https://www.youtube.com/watch?v=9bum8TDd8Ag) | [part2](https://github.com/realpython/flask-single-page-app/tree/part2) |
-| 3    | Front end fun with JavaScript, jQuery, and AJAX | [video](http://youtu.be/C88eNjVUDCM). | [part3](https://github.com/realpython/flask-single-page-app/tree/part3) |
-| 4    | Working with the Github API - consuming the API, parsing JSON | [video](http://youtu.be/Yo-RxGCpJ9s). | [part4](https://github.com/realpython/flask-single-page-app/tree/part4)
-| 5    | Consuming RESTful APIs - parsing JSON, error handling | [video](http://youtu.be/aLAsgS1IHd8). | [part5](https://github.com/realpython/flask-single-page-app/tree/part5)
-| 6    | Caching External API Requests | Coming Soon! |
+| 3    | Front end fun with JavaScript, jQuery, and AJAX | [video](http://youtu.be/C88eNjVUDCM) | [part3](https://github.com/realpython/flask-single-page-app/tree/part3) |
+| 4    | Working with the Github API - consuming the API, parsing JSON | [video](http://youtu.be/Yo-RxGCpJ9s) | [part4](https://github.com/realpython/flask-single-page-app/tree/part4)
+| 5    | Consuming RESTful APIs - parsing JSON, error handling | [video](http://youtu.be/aLAsgS1IHd8) | [part5](https://github.com/realpython/flask-single-page-app/tree/part5)
+| 6    | Caching External API Requests from the Github API | Coming Soon! |
 
 
 ## Flask!
