@@ -19,7 +19,7 @@ def home():
         url = "https://api.github.com/search/users?q=location:{0}+language:{1}".format(first, second)
         now = time.ctime(int(time.time()))
         response = requests.get(url)
-        print "Time: {0} / Used Cache: {1}".format(now, response.from_cache)
+        print("Time: {0} / Used Cache: {1}".format(now, response.from_cache))
         # return json
         return jsonify(response.json())
     return render_template('index.html')
